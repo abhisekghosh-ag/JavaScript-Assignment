@@ -1,0 +1,1 @@
+// export let web_techs = ['HTML', 'CSS', 'JavaScript', 'React'];
